@@ -5,7 +5,6 @@
 
 I am <strong>Renish,</strong> Project Manager @ <a href="https://rbian.in" target="_blank">Rbian Infotech</a>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on AI / Web3
 - 💬 Ask me about Tech
@@ -14,7 +13,10 @@ I am <strong>Renish,</strong> Project Manager @ <a href="https://rbian.in" targe
 [<img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" />](https://linktr.ee/renishgotecha/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: JavaScript is my First Wife 😜.
-- <a href="https://stackoverflow.com/users/8274534/renish-gotecha">
+
+<br/>
+
+<a href="https://stackoverflow.com/users/8274534/renish-gotecha">
   <img src="https://stackoverflow.com/users/flair/8274534.png" width="208" height="58" alt="profile for Renish Gotecha at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Renish Gotecha at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
