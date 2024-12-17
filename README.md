@@ -19,44 +19,14 @@ I am <strong>Renish,</strong> Project Manager @ <a href="https://rbian.in" targe
 </a>
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-<img height="50" width="50" src="https://rbian.in/images/element/supa.webp"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-<img height="50" width="50" src="https://rbian.in/images/element/postgresql.webp"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/><img height="50" width="50" src="https://rbian.in/images/element/supa.webp"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://rbian.in/images/element/postgresql.webp"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
 
 ### IDE and Tools I Use
-<img align="left" src="./img/brain.png" width="48" /> <img src="./img/google.png" width="48"/><img src="https://cdn.oaistatic.com/assets/favicon-o20kmmos.svg" width="48"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
-<img height="50" src="https://img.icons8.com/color/480/null/notion.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> 
-<img height="50" width="50" src="https://clickup.com/favicons/favicon-32x32.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/jira.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/cloudflare.png"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/>
-<img height="50" width="50" src="https://www.svgrepo.com/show/353929/jenkins.svg"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/slack.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-teams.png"/>
+<img src="./img/brain.png" width="48" /> <img src="./img/google.png" width="48"/><img src="https://cdn.oaistatic.com/assets/favicon-o20kmmos.svg" width="48"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://clickup.com/favicons/favicon-32x32.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/jira.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/cloudflare.png"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/><img height="50" width="50" src="https://www.svgrepo.com/show/353929/jenkins.svg"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/slack.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-teams.png"/>
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Air_M2-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> 
-<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/Macbook-Air_M2-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 <br/>
 <br/>
