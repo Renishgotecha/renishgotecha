@@ -30,6 +30,9 @@ I am <strong>Renish,</strong> Project Manager @ <a href="https://rbian.in" targe
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Air_M2-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
+
+![](https://komarev.com/ghpvc/?username=Renishgotecha&style=for-the-badge)
+
 <br/>
 <br/>
 
